@@ -1,6 +1,6 @@
 # HTTPBIN
 
-I am new to Go. This is my first real program in go, I doubt it will have any bugs beacuse of how small, it is, but I am open to bug reports.
+I am new to Go. This is my first real program in go, I doubt it will have any bugs beacuse of how small it is, but I am open to bug reports.
 
 <br>
 
